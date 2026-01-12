@@ -1,0 +1,9 @@
+Control Flow – logic gates in code (if/else, loops, comprehensions)
+
+Functions – abstraction, determinism, and reusability
+
+Error Handling – controlled failure (try/except, custom exceptions)
+
+File I/O – CSV, JSON, Excel, paths, context managers
+
+Modules & Environments – structuring real projects
