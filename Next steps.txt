@@ -1,9 +1,186 @@
-Control Flow – logic gates in code (if/else, loops, comprehensions)
+1️⃣ Data Types & Objects (you’ve done this)
 
-Functions – abstraction, determinism, and reusability
+Integers, floats, strings
 
-Error Handling – controlled failure (try/except, custom exceptions)
+Booleans
 
-File I/O – CSV, JSON, Excel, paths, context managers
+Lists, tuples, sets, dictionaries
+📌 What exists in memory
 
-Modules & Environments – structuring real projects
+2️⃣ Control Flow — logic gates in code
+
+if / elif / else
+
+for, while
+
+range, enumerate
+
+break, continue, pass
+
+Comprehensions (list, dict, set)
+📌 How decisions move computation
+
+3️⃣ Functions — abstraction & determinism
+
+Parameters vs arguments
+
+Return values vs side effects
+
+Pure vs impure functions
+
+Default arguments
+
+Multiple returns (tuples)
+
+Docstrings & contracts
+📌 Turning logic into reusable math
+
+4️⃣ Error Handling — controlled failure
+
+try / except / else / finally
+
+Built-in exceptions
+
+Raising exceptions
+
+Custom exceptions
+📌 What happens when assumptions break
+
+5️⃣ Data Structures & Iteration Patterns
+
+Iteration over dicts
+
+Nested loops
+
+Accumulators & counters
+
+Search patterns
+
+Early exit vs full scan
+📌 How data flows through time
+
+6️⃣ File I/O — persistence
+
+Reading/writing text files
+
+CSV
+
+JSON
+
+Excel
+
+Paths (os, pathlib)
+
+Context managers (with)
+📌 Memory meets the real world
+
+7️⃣ Modules & Environments — scaling up
+
+import mechanics
+
+Standard library
+
+Project structure
+
+__main__
+
+Virtual environments
+
+Dependency isolation
+📌 From script to system
+
+8️⃣ Object-Oriented Programming — structured state
+
+Classes & objects
+
+__init__
+
+Methods vs functions
+
+Encapsulation
+
+Composition over inheritance
+📌 When functions need memory
+
+9️⃣ Functional Tools — mathematical elegance
+
+lambda
+
+map, filter, reduce
+
+Higher-order functions
+
+Immutability
+
+Function composition
+📌 Closer to pure math
+
+🔟 Testing — proof by example
+
+Assertions
+
+Unit tests
+
+Edge cases
+
+Regression testing
+📌 Trust in code
+
+1️⃣1️⃣ Performance & Complexity — cost of computation
+
+Time complexity (Big-O)
+
+Space complexity
+
+Trade-offs
+
+Vectorization intuition
+📌 Why fast matters
+
+1️⃣2️⃣ NumPy & Pandas — numerical reality
+
+Arrays vs lists
+
+Vectorized operations
+
+DataFrames
+
+Indexing semantics
+
+Copy vs view
+📌 Where data science begins
+
+1️⃣3️⃣ Visualization — seeing structure
+
+Matplotlib
+
+Seaborn
+
+Choosing the right plot
+
+Misleading visuals
+📌 Turning numbers into insight
+
+1️⃣4️⃣ Applied Statistics & Simulation (your destiny)
+
+Random variables
+
+Sampling
+
+Monte Carlo
+
+Time series intuition
+📌 From data → inference
+
+1️⃣5️⃣ ML & Forecasting Pipelines
+
+Feature engineering
+
+Train/test split
+
+Model abstraction
+
+Evaluation
+
+Deployment mindset
+📌 From insight → impact
